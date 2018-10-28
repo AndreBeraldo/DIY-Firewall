@@ -4,10 +4,10 @@
 # ----------------------------------------
 
 #caminhos
-arquivo_marcadores = '../flags/paises.flag'
-arquivo_codigos = '../data/paises.cod'
-arquivo_bloquear = '../out/lista.paises'
-arquivo_zonas = '../data/all-zones/'
+arquivo_marcadores = './flags/paises.flag'
+arquivo_codigos = './data/paises.cod'
+arquivo_bloquear = './out/lista.paises'
+arquivo_zonas = './data/all-zones/'
 nome_set = 'setpaises'
 
 #Abre arquivo com marcadores do status atual, bloqueado = 1, nao = 0
